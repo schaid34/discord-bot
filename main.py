@@ -5,7 +5,7 @@ from keep_alive import keep_alive
 
 TOKEN = os.environ['TOKEN']
 GUILD_ID = 998991500450996335  # <- Replace with YOUR server ID
-VC_CHANNEL_ID = 1390092074262728785  # <- Replace with YOUR voice channel ID
+VC_CHANNEL_ID = 1394840247409442937  # <- Replace with YOUR voice channel ID
 AUDIO_FILE = "audio.mp3"
 
 intents = discord.Intents.default()
