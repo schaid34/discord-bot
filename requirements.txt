@@ -1,0 +1,5 @@
+discord.py
+pynacl
+ffmpeg
+ffmpeg-python
+flask
